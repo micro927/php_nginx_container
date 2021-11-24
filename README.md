@@ -1,8 +1,17 @@
 # php_nginx_containter
+
 containter for php with nginx
 
-# USING
+# GET STARTED
+
 - mkdir code
+- docker-compose up
+
+# ADD PHP Project
+
 - cd code
 - paste/clone `your-php-project` folder
-- enter localhost:8090/`your-php-project`
+
+# USING
+
+- enter `localhost or your-host`:8090/`your-php-project`
